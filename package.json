@@ -1,0 +1,26 @@
+{
+  "name": "scores",
+  "version": "1.0.0",
+  "description": "Scores",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No tests\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellethy-omar/scores.git"
+  },
+  "keywords": [
+    "scores"
+  ],
+  "author": "Omar Gamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellethy-omar/scores/issues"
+  },
+  "homepage": "https://github.com/ellethy-omar/scores#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
